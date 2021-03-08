@@ -9,8 +9,8 @@ const Header = () => {
     return (
             <nav className="text-center">
                 <button onClick={()=>handleNavClick('home')} className="links btn">Home</button>
-                <button onClick={()=>handleNavClick('region')} className="links btn">REGION</button>
-                <button onClick={()=>handleNavClick('regionalBloc')} className="links btn">REGIONAL BLOC</button>
+                <button onClick={()=>handleNavClick('region')} className="links btn">Search By REGION</button>
+                <button onClick={()=>handleNavClick('regionalBloc')} className="links btn">Search By REGIONAL BLOC</button>
             </nav>
     );
 };
