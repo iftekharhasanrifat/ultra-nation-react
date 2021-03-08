@@ -1,0 +1,19 @@
+.country{
+    width:400px;
+    height: 400px;
+    text-align:center;
+    margin: 20px;
+    padding:20px;
+    border-radius:20px;
+    background-color:lightseagreen;
+    box-shadow:20px 20px 25px grey;
+    transition: 1s;
+    cursor:pointer;
+}
+.country:hover{
+    background-color:teal;
+}
+.country img {
+    width:250px;
+    height:150px;
+}

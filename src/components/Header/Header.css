@@ -1,0 +1,14 @@
+.links{
+    margin: 10px;
+    background-color:lightseagreen!important;
+    color: white;
+    border-radius:5px;
+}
+nav{
+    line-height: 50px;
+    padding:10px;
+    background-color:wheat;
+}
+.links:hover{
+    background-color:teal;
+}

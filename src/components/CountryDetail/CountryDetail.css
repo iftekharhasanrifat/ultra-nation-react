@@ -1,0 +1,9 @@
+.country-detail{
+    text-align: center;
+    background-color:cadetblue;
+}
+.country-detail img{
+    margin-top:20px;
+    width: 400px;
+    height:260px;
+}
